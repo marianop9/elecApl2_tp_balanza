@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "unity.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "interrupt.h": "c",
+        "lcd.h": "c",
+        "arduino.h": "c"
+    }
+}
